@@ -6,6 +6,7 @@ notation to create a args - (*variable_name)
 example:-
 args -> *shreyash
 args canbe used to take various inputs at a time and pass large no of parameters to function directly 
+args variable name canbe anything.
 '''
 
 def a(*a):
